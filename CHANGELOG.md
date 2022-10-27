@@ -45,6 +45,8 @@ Inspired from [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Added changes for graceful node decommission ([#4586](https://github.com/opensearch-project/OpenSearch/pull/4586))
 - Build no-jdk distributions as part of release build ([#4902](https://github.com/opensearch-project/OpenSearch/pull/4902))
 - Renamed flaky tests ([#4912](https://github.com/opensearch-project/OpenSearch/pull/4912))
+### Dependencies
+- Bumps `gson` from 2.9.0 to 2.10
 
 ### Dependencies
 - Bumps `log4j-core` from 2.18.0 to 2.19.0
